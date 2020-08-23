@@ -1,0 +1,19 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+  form{
+    margin-left: 730px;
+    }
+    .card img{
+      max-width: 100%;
+      
+    }
+    .container{
+      padding-top: 30px;
+    } 
+   .card{
+    max-width: 350px;
+    }
+    
